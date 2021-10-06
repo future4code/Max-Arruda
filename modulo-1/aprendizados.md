@@ -1,0 +1,2 @@
+# Aulas da labenu
+Essa semana tivemos um gostinho de quanto vamos aprender com curso da labenu.Tivemos aula sobre **terminal**,ajudamos solucionar um crime usando terminal.Aprendemos usar **GitHub**,nossa que dor de cabeca.Tivemso aulas de diversidade e respeito entre colegas e como usar princiais ferramentas que vamos usar no curso.Estou ansioso para cada semana aprendemos mais.
